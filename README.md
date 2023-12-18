@@ -4,7 +4,7 @@
 - LLM(Large Language Model)
 - TTS(Text to Speech)
 - gTTS: Crawling Library
-- 
+  
 ### Used Item
 - Python 
 - openai
