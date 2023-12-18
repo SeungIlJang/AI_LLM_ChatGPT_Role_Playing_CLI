@@ -13,7 +13,6 @@
 - load_dotenv
 - gTTS
 
-
-
+![image](https://github.com/SeungIlJang/AI_LLM_ChatGPT_Role_Playing_CLI/assets/45052948/80f9a84b-7b1e-4118-be7f-0b569c3d53bd)
 
 
