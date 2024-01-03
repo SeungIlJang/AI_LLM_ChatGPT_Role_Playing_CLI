@@ -1,4 +1,4 @@
-# AI LLM ChatGPT Roll Playing CLI DEV
+# AI LLM ChatGPT Roll Playing CLI 
 
 ### Explanation
 - LLM(Large Language Model)
