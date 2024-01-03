@@ -1,4 +1,4 @@
-# AI LLM ChatGPT Roll Playing CLI 
+# AI LLM ChatGPT Roll Playing CLI DEVOPT
 
 ### Explanation
 - LLM(Large Language Model)
