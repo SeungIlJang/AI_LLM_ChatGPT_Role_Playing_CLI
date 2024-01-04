@@ -1,4 +1,4 @@
-# AI LLM ChatGPT Roll Playing CLI MERGE
+# AI LLM ChatGPT Roll Playing CLI
 
 ### Explanation
 - LLM(Large Language Model)
